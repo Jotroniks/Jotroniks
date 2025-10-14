@@ -1,8 +1,10 @@
-## Hi there 
-My name is
-## Joshua Okpare
-aka 
-## Jotroniks
+## Hi there My name is Joshua Okpare aka Jotroniks
+I am one with interest in Embedded systems, automation and AI.
+I recently worked on a deep learning project for classifying currency as genuine or counterfeit(focused on the Nigerian Naira).
+I’m currently learning about communication protocols and the use of Kicad for PCB design
+I’m looking to collaborate on works relating to the embedded systems field, automation and application of AI
+Feel free to check out various other projects I've worked on 
+
 <!--
 **Jotroniks/Jotroniks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
